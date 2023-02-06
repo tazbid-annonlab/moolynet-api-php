@@ -1,0 +1,9 @@
+{
+  "name": "moolynet/api-php",
+  "description": "Mooly.net api",
+  "type": "library",
+  "license": "GPLv2",
+  "autoload": {
+    "psr-4": { "Moolynet\\Api\\": ["src/"] }
+  }
+}
